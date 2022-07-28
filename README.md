@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salvinrai
-- 👀 I’m interested in a development part and love to do coading based on many aspects.
+- 👀 I’m interested in a development part and love to do coding based on many aspects.
 - 🌱 I’m currently learning data Science and android development .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- instagram id :- @itzz-salvin
