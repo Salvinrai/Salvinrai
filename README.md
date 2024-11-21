@@ -13,19 +13,19 @@ You can click the Preview link to take a look at your changes.
 
 <!-- GitHub stats and streaks -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&hide_title=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salvinrai&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvinrai&show_icons=true&hide_title=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvinrai&layout=compact&theme=dark)
 
 ---
 
 ### 🚀 GitHub Activity
 
 - **Contributions in the last year**:  
-  ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=[Your GitHub Username]&bg_color=0d1117&color=60A8FF&line=4581A2&point=FFD700&hide_border=true&theme=react)
+  ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=salvinrai&bg_color=0d1117&color=60A8FF&line=4581A2&point=FFD700&hide_border=true&theme=react)
 
 - **My Streak**:  
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=[Your GitHub Username]&theme=dark)
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=salvinrai&theme=dark)
 
 ---
 
