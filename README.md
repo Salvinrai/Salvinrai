@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 GitHub Activity
 
 - **Contributions in the last year**:  
-  ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=salvinrai&bg_color=0d1117&color=60A8FF&line=4581A2&point=FFD700&hide_border=true&theme=react)
+  ![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?user=salvinrai&bg_color=0d1117&color=60A8FF&line=4581A2&point=FFD700&hide_border=true&theme=react)
 
 - **My Streak**:  
   ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=salvinrai&theme=dark)
